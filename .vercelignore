@@ -1,0 +1,7 @@
+# No se sube a Vercel: material fuente, scripts de build de assets y docs
+assets-fuente
+scripts
+node_modules
+.next
+.git
+*.md
