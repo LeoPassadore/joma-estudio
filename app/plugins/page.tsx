@@ -9,7 +9,7 @@ export const metadata = {
     "Plugins y paquetes descargables de JOMA Estudio para producción musical urbana. El primero: Joma Vox.",
   alternates: { canonical: "/plugins" },
   openGraph: {
-    images: [{ url: "/images/hero-plugins.webp", width: 1672, height: 941 }],
+    images: [{ url: "/images/hero-plugins.webp", width: 1600, height: 900 }],
   },
 };
 
